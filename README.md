@@ -27,7 +27,7 @@ uncomment code and replace 'GITHUBKEY' with your personal access token
 open http://localhost:3000/ in browser
 ```
 
-## Main Libraries & Frameworks Used
+## Main Libraries & Frameworks
 - React hooks & Context
 - Express/Node
 - Styled Components
