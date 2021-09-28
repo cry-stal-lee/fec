@@ -2,8 +2,6 @@
 
 Project Catwalk is a single-page e-commerce web application made using React and Node/Express. This project was created by a team of four, the Marvelous Maitake, as a frontend capstone project for Hack Reactor. All client requests are routed through our server to an external API.
 
-This client has also been deployed on AWS: http://18.191.161.14:3000/
-
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install dependencies.
