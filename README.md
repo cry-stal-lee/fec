@@ -33,8 +33,9 @@ uncomment code and replace 'GITHUBKEY' with your personal access token
 open http://localhost:3000/ in browser
 ```
 
-## 📝 Tech Stack
-- React hooks & Context
+## 🛠️ Tech Stack
+- React hooks 
+- React Context API
 - Express/Node
 - Styled Components
 - Jest & React Testing Library
