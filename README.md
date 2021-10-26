@@ -38,6 +38,8 @@ npm install
 
 ## 👤 Usage
 ```
+$ git clone https://github.com/cry-stal-lee/project-catwalk.git
+
 # bundle files
 $ npm run transpile
 
