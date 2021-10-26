@@ -59,7 +59,7 @@ open http://localhost:3000/
 - CircleCI
 
 ## 🤝 Authors
-- [@cry-stal-lee](github.com/cry-stal-lee)
-- [@YueCodeGG](github.com/YueCodeGG)
-- [@Kodylow](github.com/Kodylow)
-- [@jshzglr](github.com/jshzglr)
+- [@cry-stal-lee](http://github.com/cry-stal-lee)
+- [@YueCodeGG](http://github.com/YueCodeGG)
+- [@Kodylow](http://github.com/Kodylow)
+- [@jshzglr](http://github.com/jshzglr)
