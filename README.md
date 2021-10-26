@@ -3,7 +3,7 @@
 
 *PROJECT CATWALK* is a single-page e-commerce web application made using React and Node/Express. All client requests are routed and authenticated through our server to an external API. This project was created by a team of four, the Marvelous Maitake. 
 
-As tech and design lead, I created our server, set up continuous integration with CircleCI, established state management with React Context, and formalized our team workflow & pull request system. I also designed and styled the entire application using styled-components. Individually, I implemented the Related Products and Your Outfit components.
+As tech lead and the UI/UX owner, I created our server, set up continuous integration with CircleCI, established state management with React Context, and formalized our team workflow & pull request system. I also designed and styled the entire application using styled-components. Individually, I implemented the Related Products and Your Outfit components.
 
 ## ✨ Features
 - Search by product ID to bring up product page
