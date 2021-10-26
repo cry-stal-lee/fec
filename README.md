@@ -1,12 +1,32 @@
-# 🐈 Project Summary
+# 🐈 Project Catwalk
+![project-catwalk](https://user-images.githubusercontent.com/52181740/138842613-0c02e947-3083-4414-9efd-34349e9e7a37.gif)
 
 Project Catwalk is a single-page e-commerce web application made using React and Node/Express. This project was created by a team of four, the Marvelous Maitake, as a frontend capstone project for Hack Reactor. All client requests are routed through our server to an external API.
 
-## ⚙️ Component Details
-- The overview component features the details of a single product, allowing the user to select different styles and scroll through photos of each style. 
-- The related products component displays all products related to the overview product in a carousel form. Each product card allows you to compare the related product with the current product, or to enter detailed view on the related product. The outfit component is in a similar form, and allows the user to add or remove products into the carousel. 
-- The questions and answers component features various questions and answers submitted about the overview product, and also allows the user to submit their own q&a's. 
-- The ratings and reviews component displays the average rating for the overview product, and also displays all of the submitted reviews for the product. Users can submit their own ratings and reviews as well.
+## ✨ Features
+- Search by product ID to bring up product page
+- Built-in light and dark mode
+
+### Overview
+- Scroll through different photos of the same style using the thumbnail carousel
+- Click thumbnails to view different styles of the same product
+- Click on image to magnify
+
+### Related Products & Outfit
+- View all products related to the overview product by scrolling through carousel
+- Clicking on product card brings you to product page
+- Clicking on star brings up comparison modal between clicked product and current product
+- Add and remove products to your outfit
+
+### Questions & Answers
+- View all questions and answers submitted about selected product
+- Submit your own questions or add answers to questions with image upload feature
+- Can mark answers as helpful or report them
+
+### Ratings & Reviews
+- Displays average rating and all submitted reviews for selected product
+- Submit your own review/rating with image upload feature
+- Can mark reviews as helpful or report them
 
 ## 💻 Installation
 
@@ -33,7 +53,7 @@ uncomment code and replace 'GITHUBKEY' with your personal access token
 open http://localhost:3000/ in browser
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 - React hooks 
 - React Context API
 - Express/Node
