@@ -37,20 +37,17 @@ npm install
 ```
 
 ## 👤 Usage
+- bundle files and run server
 ```
-# bundle files
-$ npm run transpile
-
-# initialize server
-$ npm run server
-
-# enter api key
-copy config.example.js in server folder
-rename it to config.js
-uncomment code and replace 'GITHUBKEY' with your personal access token
-
-# open client
-$ open http://localhost:3000/
+npm run transpile
+npm run server
+```
+- copy config.example.js in server folder
+- rename it to config.js
+- uncomment code and replace 'GITHUBKEY' with your personal access token
+- open client
+```
+open http://localhost:3000/
 ```
 
 ## 🛠️ Technologies
