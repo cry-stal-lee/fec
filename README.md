@@ -1,7 +1,7 @@
 # 🐈 Project Catwalk
 ![project-catwalk](https://user-images.githubusercontent.com/52181740/138842613-0c02e947-3083-4414-9efd-34349e9e7a37.gif)
 
-*PROJECT CATWALK* is a single-page e-commerce web application made using React and Node/Express. This project was created by a team of four, the Marvelous Maitake. I was the design/CSS lead, and I also implemented the Related Products & Outfit components. All client requests are routed and authenticated through our server to an external API.
+*PROJECT CATWALK* is a single-page e-commerce web application made using React and Node/Express. This project was created by a team of four, the Marvelous Maitake. I was the design/CSS lead, and I also implemented the Related Products and Your Outfit components. All client requests are routed and authenticated through our server to an external API.
 
 ## ✨ Features
 - Search by product ID to bring up product page
