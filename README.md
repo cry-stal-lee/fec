@@ -57,3 +57,9 @@ open http://localhost:3000/
 - Styled Components
 - Jest & React Testing Library
 - CircleCI
+
+## 🤝 Authors
+- [@cry-stal-lee](github.com/cry-stal-lee)
+- [@YueCodeGG](github.com/YueCodeGG)
+- [@Kodylow](github.com/Kodylow)
+- [@jshzglr](github.com/jshzglr)
